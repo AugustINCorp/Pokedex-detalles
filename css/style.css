@@ -20,3 +20,9 @@ p {
 textarea {
   resize: none;
 }
+.background {
+  background: url(../img/background.jpg) no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+ }
+
