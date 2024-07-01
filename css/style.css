@@ -1,12 +1,22 @@
-.banner{
-    background-image: url(img/bannerEvolucion.jpg);
+.banner {
+  background-image: url(img/bannerEvolucion.jpg);
 }
 
-.bg-orange{
-    background: orange;
+.bg-orange {
+  background: orange;
 }
 
-.text-pink{
-    color: rgb(255, 121, 143);
+.text-pink {
+  color: rgb(255, 121, 143);
 }
 
+.carousel-img {
+  height: 400px;
+  object-fit: cover;
+}
+p {
+  font-weight: bold;
+}
+textarea {
+  resize: none;
+}
